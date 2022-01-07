@@ -16,6 +16,9 @@ Streamlit is an open-source web framework written in Python. It is the fastest w
 Streamlit contains a wide variety of functionalities, and an in-built function to meet your requirement. It provides you with a plot map, flowcharts, slider, selection box, input field, the concept of caching.
 
 # Streamlit web page Demo:
+![Screenshot (77)](https://user-images.githubusercontent.com/92773900/148548097-bcba8b35-9ca2-422b-9428-84dc228c23a5.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/92773900/148548106-bd9ca07b-8f59-4ba4-b684-ddd72203b543.png)
+
 
 
 
