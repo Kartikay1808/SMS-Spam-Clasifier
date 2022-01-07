@@ -6,13 +6,11 @@ The text classification task can be defined as assigning category labels to new 
 
 **Dataset**: Data is taken fron Kaggle.
 
-## Dataset link:
+## Dataset link:https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 
 
-**Streamlit:******
-
-
+**Streamlit:**
 
 
 
@@ -35,5 +33,9 @@ The text classification task can be defined as assigning category labels to new 
 
 
 
+# Heroku:
+The Heroku network runs the customer's apps in virtual containers which execute on a reliable runtime environment. Heroku calls these containers "Dynos". These Dynos can run code written in Node, Ruby, PHP, Go, Scala, Python, Java, or Clojure. Heroku also provides custom buildpacks with which the developer can deploy apps in any other language. Heroku lets the developer scale the app instantly just by either increasing the number of dynos or by changing the type of dyno the app runs in.
 
-# https://sms-spam-classifier1.herokuapp.com
+
+
+## Heroku app Link: https://sms-spam-classifier1.herokuapp.com
